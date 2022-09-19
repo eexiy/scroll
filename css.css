@@ -24,6 +24,7 @@ a {
 .header__content {
     margin: auto;
     text-align: center;
+    cursor: pointer;
 }
 .header__nav {
     display: flex;
